@@ -22,7 +22,7 @@
         Console.WriteLine(arr[i] + " ");
     } 
     dif = max - min;
-    Console.WriteLine("sum = {0}, difference = {1}, max = {2}, min = {3}", sum, dif, max, min);// изобрел свой первый кастыль)
+    Console.WriteLine("sum = {0}, difference = {1}, max = {2}, min = {3}", sum, dif, max, min);
 }
 
 DifOfMinAndMax(args);
